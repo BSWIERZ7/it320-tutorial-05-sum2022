@@ -1,0 +1,9 @@
+APP_DOCROOT=
+#Ingore the locsl .env file
+#
+.env
+
+#Ignore the sql backup file
+#
+my-wp-backup.sql
+my-detest.sql
